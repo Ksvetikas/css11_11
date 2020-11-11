@@ -1,0 +1,97 @@
+<style>
+.p1 {
+  font-family: Verdana;
+}
+.p1a {
+  font-family: Roboto;
+}
+.p2 {
+  font-size: 24px;
+}
+.p3 {
+  max-width: 40%;
+  display: block;
+}
+.p4 {
+  color: blue;
+  font-size: 30px;
+  border-style: solid;
+  border-color: black;
+  border-width: 4px;
+}
+.veryga {
+  font-size: 20px;
+}
+.p5 {
+  font-style: italic;
+}
+.p5a {
+  font-weight: bold;
+}
+.p6 {
+  text-decoration: underline;
+}
+.p6a {
+  text-decoration: line-through;
+}
+.p7 {
+  line-height: 26px;
+}
+.p7a {
+  text-transform: uppercase;
+}
+.p8 {
+  text-indent: 30px;
+}
+.p8a {
+  background-color: green;
+}
+.p9 {
+  background-color: orange;
+}
+.p9a {
+  background-color: white;
+}
+.p10 {
+  font-family: Tahoma;
+  font-size: 30px;
+  color: SlateBlue;
+}
+.p10a {
+  text-decoration: underline;
+}
+h2 {
+  font-size: 40px;
+  color: #003399;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
+.d1 {
+  background-color: blue;
+  width: 50%;
+  height: 200px;
+}
+.d2 {
+  background-color: yellow;
+  width: 50%;
+  max-height: 200px;
+}
+.d3 {
+  background-color: red;
+  width: 47%;
+  height: 200px;
+  padding: 20px;
+  border-style: solid;
+  border-width: 5px;
+}
+.d4 {
+  background-color: green;
+  width: 50%;
+  height: 200px;
+  padding: 20px;
+  border-style: dashed;
+  border-width: 5px;
+  box-sizing: border-box;
+}
+</style>
